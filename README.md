@@ -4,6 +4,16 @@ Utilised SQL, Microsoft Excel and Power BI to explore the bike rental informatio
 
 ![image](https://github.com/Orinamhe/Bike-rental-project/assets/153821560/ab5f3478-2bf1-41a3-afe0-ec564fe46120)
 
+![image](https://github.com/Orinamhe/Bike-rental-project/assets/153821560/fd5283a4-5d28-4aef-972a-d5328ec48a6e)
+
+![image](https://github.com/Orinamhe/Bike-rental-project/assets/153821560/af251dcd-7f5e-4958-bdfa-ff5d0f742666)
+
+![image](https://github.com/Orinamhe/Bike-rental-project/assets/153821560/98facbb0-15c9-4663-a0e2-12964e305a38)
+
+![image](https://github.com/Orinamhe/Bike-rental-project/assets/153821560/6657e52d-2129-42ad-8500-6ffeea2efef9)
+
+
+
 
 REPORT SUMMARY
 UNDERSTANDING TASK OBJECTIVE
